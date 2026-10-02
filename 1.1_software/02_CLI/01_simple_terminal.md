@@ -7,9 +7,9 @@ Learn how to check where you are and explore folders.
 ### 📝 Tasks
 1. Open the Terminal.  
 2. Type `pwd` and write down the output.
-
+ /home/folder
 4. List all files in your current folder using `ls`.
-   documents desktop
+   #####documents desktop
 6. Move into your CLI assignment folder for Week 02:
    ```bash
    cd Documents
