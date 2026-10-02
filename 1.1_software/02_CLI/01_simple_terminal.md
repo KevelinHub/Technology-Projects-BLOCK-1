@@ -4,7 +4,7 @@
 ### 🎯 Goal  
 Learn how to check where you are and explore folders.
 
-### 📝 Tasks
+#### 📝 Tasks
 1. Open the Terminal.  
 2. Type `pwd` and write down the output.
  /home/folder
